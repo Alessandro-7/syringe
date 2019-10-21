@@ -1,0 +1,851 @@
+<package name="Paid Seiyuu Dose #5" version="4" id="7d38d366-e1a3-49a5-abf4-fbb70d3c9344" date="21.10.2019" publisher="Seiyuu World" difficulty="5" xmlns="http://ur-quan1986.narod.ru/ygpackage3.0.xsd">
+  <info>
+    <authors>
+      <author>Alessandro</author>
+    </authors>
+  </info>
+  <round name="1-й раунд">
+    <themes>
+      <theme name="syringe">
+        <questions>
+          <question price="1">
+            <scenario>
+              <atom type="image">@1.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Koshimizu Ami; Shinohara Emi – Makoto Kino (Bishoujo Senshi Sailor Moon)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@2.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Shingaki Tarusuke – Mirio Toogata (Boku no Hero Academia 3rd Season)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@3.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Hidaka Rina; Maki Yoko – Michiko Malandro (Michiko to Hatchin)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@4.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Sakura Ayane; Saitou Souma – Glenn Radars (Rokudenashi Majutsu Koushi to Akashic Records)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@5.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Hikasa Yoko – Shino Amakusa (Seitokai Yakuindomo)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@6.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Takato Yasuhiro; Yuuki Aoi – Russia  (Hetalia Axis Powers)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@7.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Kuwatani Natsuko – Suiseiseki  (Rozen Maiden)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@8.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Hisakawa Aya; Tsuru Hiromi – Bulma  (Dragon Ball)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@9.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Ise Mariya – Regu  (Made in Abyss)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@10.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Ikeda Shuuichi – Shuuichi Akai (Detective Conan)</answer>
+            </right>
+          </question>
+        </questions>
+      </theme>
+      <theme name="syringe">
+        <questions>
+          <question price="1">
+            <scenario>
+              <atom type="image">@11.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Mimori Suzuko – Neko Fujinomiya (Masamune-kun no Revenge)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@12.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Namikawa Daisuke – Yuu Narukami (Persona 4 the Animation)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@13.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Iguchi Yuka – Tsukihi Araragi (Bakemonogatari)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@14.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Sakurai Takahiro – Luka Crosszeria (Uragiri wa Boku no Namae wo Shitteiru)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@15.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Hidaka Rina – Enju Aihara (Black Bullet)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@16.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Terashima Takuma – Shintarou Kisaragi (Mekakucity Actors)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@17.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Katayama Fukujuurou; Nishida Mitsutaka – Yutaka Hoshino (Ping Pong the Animation)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@18.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Shimizu Ai; Kondou Yui – Road Kamelot (D.Gray-man)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@19.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Noto Mamiko – Satellizer el Bridget (Freezing)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@20.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Konishi Katsuyuki; Shintani Ryouko; Iwamura Aiko – America  (Hetalia Axis Powers)</answer>
+            </right>
+          </question>
+        </questions>
+      </theme>
+      <theme name="syringe">
+        <questions>
+          <question price="1">
+            <scenario>
+              <atom type="image">@21.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Asumi Kana – Marika Tachibana (Nisekoi)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@22.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Minagawa Junko; Ogata Megumi – Haruka Tenou (Bishoujo Senshi Sailor Moon S)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@23.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Katou Nanae – Ahiru Arima (Princess Tutu)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@24.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Taketatsu Ayana – Suguha Kirigaya (Sword Art Online)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@25.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Hanamori Yumiri – Nadeshiko Kagamihara (Yuru Camp△)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@26.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Matsuoka Yoshitsugu – Sorata Kanda (Sakurasou no Pet na Kanojo)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@27.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Kamiya Akira – Ryou Saeba (Angel Heart)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@28.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Suzumura Kenichi – Zack Fair (Final Fantasy VII: Advent Children)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@29.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Fukuyama Jun – Ren Amamiya (Persona 5 the Animation: The Day Breakers)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@30.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Noto Mamiko – Yakumo Tsukamoto (School Rumble)</answer>
+            </right>
+          </question>
+        </questions>
+      </theme>
+      <theme name="syringe">
+        <questions>
+          <question price="1">
+            <scenario>
+              <atom type="image">@31.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Koyasu Takehito – Neuro Nougami (Majin Tantei Nougami Neuro)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@32.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Park Romi – Ren Tao (Shaman King)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@33.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Hosoya Yoshimasa – Reiner Braun (Shingeki no Kyojin)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@34.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Kitamura Eri – Saya Otonashi (Blood+)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@35.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Fujiwara Keiji; Sanpei Yuuko – Renton Thurston (Koukyoushihen Eureka Seven)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@36.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Ozawa Ari – Kurumi Ebisuzawa (Gakkougurashi!)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@37.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Fukuyama Jun – Yuuta Togashi (Chuunibyou demo Koi ga Shitai!)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@38.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Suwabe Junichi; Inoue Marina – Frau  (07-Ghost)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@39.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Togashi Misuzu – Yukiteru Amano (Mirai Nikki OVA)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@40.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Okajima Tae – Kotonoha Katsura (School Days ONA)</answer>
+            </right>
+          </question>
+        </questions>
+      </theme>
+      <theme name="syringe">
+        <questions>
+          <question price="1">
+            <scenario>
+              <atom type="image">@41.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Miyano Mamoru – Koutarou Tatsumi (Zombieland Saga)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@42.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Wakamoto Norio; Nakamura Yuuichi – Oskar von Reuenthal (Ginga Eiyuu Densetsu)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@43.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Enomoto Atsuko – Yukino Miyazawa (Kareshi Kanojo no Jijou)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@44.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Iwata Mitsuo – Shoutarou Kaneda (Akira)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@45.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Shimono Hiro – Akihisa Yoshii (Baka to Test to Shoukanjuu)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@46.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Kotobuki Minako – Asuka Tanaka (Hibike! Euphonium)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@47.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Matsuda Youji – Ashitaka  (Mononoke Hime)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@48.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Sawashiro Miyuki – Yuzuki Seo (Gekkan Shoujo Nozaki-kun)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@49.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Kimura Ryouhei – Hideki Hinata (Angel Beats!)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@50.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Uchiyama Kouki; Sekine Akira – Raku Ichijou (Nisekoi)</answer>
+            </right>
+          </question>
+        </questions>
+      </theme>
+      <theme name="syringe">
+        <questions>
+          <question price="1">
+            <scenario>
+              <atom type="image">@51.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Kimura Ryouhei – Judar  (Magi: The Labyrinth of Magic)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@52.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Midorikawa Hikaru – Heero Yuy (Mobile Suit Gundam Wing)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@53.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Sawashiro Miyuki – Kaiser de Emperana Beelzebub IV (Beelzebub: Hirotta Akachan wa Daimaou!?)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@54.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Yukana – Teletha Testarossa (Full Metal Panic!)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@55.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Minagawa Junko – Ritsuka Aoyagi (Loveless)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@56.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Inada Tetsu – Kurogane  (Tsubasa Chronicle)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@57.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Hanazawa Kana – Mayumi Saegusa (Mahouka Koukou no Rettousei)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@58.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Horie Yui – Ryuunosuke Akasaka (Sakurasou no Pet na Kanojo)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@59.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Tamura Yukari – Masuzu Natsukawa (Ore no Kanojo to Osananajimi ga Shuraba Sugiru)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@60.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Shiraishi Ryouko; Kikuchi Kokoro – Agito Wanijima (Air Gear)</answer>
+            </right>
+          </question>
+        </questions>
+      </theme>
+      <theme name="syringe">
+        <questions>
+          <question price="1">
+            <scenario>
+              <atom type="image">@61.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Kaji Yuki – Speed-o'-Sound Sonic  (One Punch Man)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@62.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Shiraishi Ryouko – Hayate Ayasaki (Hayate no Gotoku!)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@63.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Taketatsu Ayana – Yuzu Aihara (Citrus)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@64.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Tomatsu Haruka – Naruko Anjou (Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@65.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Asakawa Yuu –  Sakaki (Azumanga Daioh)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@66.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Kayano Ai – Ai Fuyuumi (Ore no Kanojo to Osananajimi ga Shuraba Sugiru)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@67.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Okiayu Ryoutarou – Dark Mousy (D.N.Angel)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@68.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Horie Yui – Ayu Tsukimiya (Kanon)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@69.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Tachibana Shinnosuke – Shuuya Kano (Mekakucity Actors)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@70.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Murakawa Rie – Ram  (Re:Zero kara Hajimeru Isekai Seikatsu)</answer>
+            </right>
+          </question>
+        </questions>
+      </theme>
+      <theme name="syringe">
+        <questions>
+          <question price="1">
+            <scenario>
+              <atom type="image">@71.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Horie Yui – Hanyuu  (Higurashi no Naku Koro ni Kai)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@72.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Hanazawa Kana – Karuta Roromiya (Inu x Boku SS)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@73.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Aizawa Mai – Mio Naganohara (Nichijou: Nichijou no 0-wa)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@74.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Majima Junji – Ayumu Aikawa (Kore wa Zombie Desu ka?)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@75.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Taketatsu Ayana – Hotaru Shidare (Dagashi Kashi)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@76.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Hanae Natsuki – Rokuro Enmadou (Sousei no Onmyouji)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@77.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Toriumi Kousuke – Hajime Saitou (Hakuouki)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@78.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Nakamura Yuuichi – Toyohisa Shimazu (Drifters)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@79.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Sakurai Takahiro – Misaki Takahashi (Junjou Romantica)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@80.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Kubo Yurika – Kaede Azusagawa (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)</answer>
+            </right>
+          </question>
+        </questions>
+      </theme>
+      <theme name="syringe">
+        <questions>
+          <question price="1">
+            <scenario>
+              <atom type="image">@81.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Namikawa Daisuke – Yashiro Isana (K)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@82.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Ogasawara Arisa – Panty Anarchy (Panty &amp; Stocking with Garterbelt)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@83.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Hirakawa Daisuke; Hikasa Yoko – Rei Ryuugazaki (Free!)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@84.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Anzai Chika – Chisa Kotegawa (Grand Blue)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@85.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Touyama Nao – Kongou  (Kantai Collection: KanColle)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@86.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Fukuyama Jun; Yuuki Aoi – Shinra Kishitani (Durarara!!)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@87.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Seki Tomokazu; Hayami Show; Asanuma Shintaro; Takeda Shinji; Tanaka Ryouichi; Uchiyama Kouki; Yamazaki Satoshi – Akira Fudou (Devilman)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@88.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Seki Tomokazu – Itaru Hashida (Steins;Gate)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@89.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Kawakami Tomoko – Misuzu Kamio (Air)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@90.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Matsuoka Yuki – Nana  (Elfen Lied)</answer>
+            </right>
+          </question>
+        </questions>
+      </theme>
+      <theme name="syringe">
+        <questions>
+          <question price="1">
+            <scenario>
+              <atom type="image">@91.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Kaji Yuki – Kuro  (Servamp)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@92.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Tanaka Hideyuki; Shiozawa Kaneto – D  (Vampire Hunter D (2000))</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@93.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Ogata Megumi – Yue  (Cardcaptor Sakura)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@94.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Toyosaki Aki – Kofuku  (Noragami)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@95.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Nakamura Yuuichi; Mashiba Mari; Shiraishi Fuyumi – Karamatsu Matsuno (Osomatsu-kun (1988))</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@96.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Shiina Hekiru – Celestia Ludenberg (Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@97.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Fujita Saki – Ymir  (Shingeki no Kyojin)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@98.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Endou Aya – Sheryl Nome (Macross F)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@99.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Sasanuma Akira – Link  (Hikari no Megami)</answer>
+            </right>
+          </question>
+          <question price="1">
+            <scenario>
+              <atom type="image">@100.jpg</atom>
+            </scenario>
+            <right>
+              <answer>Midorikawa Hikaru; Ushida Hiroko – Ayato Sakamaki (Diabolik Lovers)</answer>
+            </right>
+          </question>
+        </questions>
+      </theme>
+    </themes>
+  </round>
+</package>
